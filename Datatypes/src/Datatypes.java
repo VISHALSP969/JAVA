@@ -13,6 +13,16 @@ public class Datatypes {
 		System.out.println(myLetter);
 		System.out.println(myText);
 		System.out.println(myBool);
+		
+		//Create variables of different datatypes
+		int items=50;
+		float costPerItem=9.99f;
+		float totalCost=items*costPerItem;
+		char currency='$';
+		//Print variables
+		System.out.println("Number of items : "+items);
+		System.out.println("Cost per item :"+costPerItem);
+		System.out.println("Total cost : "+totalCost+currency);
 	}
 
 }
