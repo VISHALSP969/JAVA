@@ -13,5 +13,4 @@ public class IfElse1 {
 		String result = (time < 18) ? "Good day." : "Good evening.";
 		System.out.println(result);
 	}
-
 }
