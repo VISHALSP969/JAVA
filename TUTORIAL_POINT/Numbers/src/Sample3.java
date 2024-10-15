@@ -73,5 +73,9 @@ public class Sample3 {
 		System.out.println(Math.log(10));
 		System.out.println(Math.log(100));
 		System.out.println("-----------");
+		System.out.println(Math.pow(2,3));
+		System.out.println(Math.pow(2,10));
+		System.out.println(Math.pow(5,4));
+		System.out.println("-----------");
 	}
 }
