@@ -35,5 +35,10 @@ public class Sample3 {
 		System.out.println(x.toString());
 		System.out.println(Integer.toString(12));
 		System.out.println("-----------");
+		System.out.println(Integer.parseInt("99"));
+		System.out.println(Integer.parseInt("5"));
+		System.out.println(Integer.parseInt("444",16));
+		System.out.println("-----------");
+		
 	}
 }
