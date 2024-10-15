@@ -77,5 +77,8 @@ public class Sample3 {
 		System.out.println(Math.pow(2,10));
 		System.out.println(Math.pow(5,4));
 		System.out.println("-----------");
+		System.out.println(Math.sqrt(64));
+		System.out.println(Math.sqrt(100));
+		System.out.println("-----------");
 	}
 }
