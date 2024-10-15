@@ -64,5 +64,10 @@ public class Sample3 {
 		System.out.println(Math.max(12.123,12.456));
 		System.out.println(Math.max(23.12,23.0));
 		System.out.println("-----------");
+		double n1=11.635;
+		double n2=2.76;
+		System.out.printf("The value of e is %.4f%n", Math.E);
+		System.out.printf("exp(%.3f) is %.3f%n", n1, Math.exp(n1));
+		System.out.println("-----------");
 	}
 }
