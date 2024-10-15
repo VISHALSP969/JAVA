@@ -46,5 +46,9 @@ public class Sample3 {
 		System.out.println(Math.ceil(-100.675));
 		System.out.println(Math.ceil(-90));
 		System.out.println("-----------");
+		System.out.println(Math.floor(-100.675));
+		System.out.println(Math.floor(-90));
+		System.out.println("-----------");
+		
 	}
 }
