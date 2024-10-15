@@ -32,5 +32,8 @@ public class Sample3 {
 		Integer i=Integer.valueOf("444",16);
 		System.out.println(i);
 		System.out.println("-----------");
+		System.out.println(x.toString());
+		System.out.println(Integer.toString(12));
+		System.out.println("-----------");
 	}
 }
