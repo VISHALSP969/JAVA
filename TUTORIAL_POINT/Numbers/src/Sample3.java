@@ -49,6 +49,9 @@ public class Sample3 {
 		System.out.println(Math.floor(-100.675));
 		System.out.println(Math.floor(-90));
 		System.out.println("-----------");
-		
+		System.out.println(Math.rint(100.675));
+		System.out.println(Math.rint(100.500));
+		System.out.println(Math.rint(100.200));
+		System.out.println("-----------");
 	}
 }
