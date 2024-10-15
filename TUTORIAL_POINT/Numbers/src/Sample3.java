@@ -23,5 +23,14 @@ public class Sample3 {
 		System.out.println(x.equals(z));
 		System.out.println(x.equals(a));
 		System.out.println("-----------");
+		Integer p=Integer.valueOf(9);
+		System.out.println(p);
+		Double q=Double.valueOf(9);
+		System.out.println(q);
+		String r=String.valueOf("9");
+		System.out.println(r);
+		Integer i=Integer.valueOf("444",16);
+		System.out.println(i);
+		System.out.println("-----------");
 	}
 }
