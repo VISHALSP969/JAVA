@@ -39,6 +39,9 @@ public class Sample3 {
 		System.out.println(Integer.parseInt("5"));
 		System.out.println(Integer.parseInt("444",16));
 		System.out.println("-----------");
-		
+		System.out.println(Math.abs(-8));	
+		System.out.println(Math.abs(-100));
+		System.out.println(Math.abs(-90));
+		System.out.println("-----------");
 	}
 }
