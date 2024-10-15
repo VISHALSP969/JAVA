@@ -53,5 +53,10 @@ public class Sample3 {
 		System.out.println(Math.rint(100.500));
 		System.out.println(Math.rint(100.200));
 		System.out.println("-----------");
+		System.out.println(Math.round(100.675));
+		System.out.println(Math.round(100.500));
+		System.out.println(Math.round(100));
+		System.out.println(Math.round(90f));
+		System.out.println("-----------");
 	}
 }
