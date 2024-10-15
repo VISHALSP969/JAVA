@@ -69,5 +69,9 @@ public class Sample3 {
 		System.out.printf("The value of e is %.4f%n", Math.E);
 		System.out.printf("exp(%.3f) is %.3f%n", n1, Math.exp(n1));
 		System.out.println("-----------");
+		System.out.println(Math.log(1));
+		System.out.println(Math.log(10));
+		System.out.println(Math.log(100));
+		System.out.println("-----------");
 	}
 }
