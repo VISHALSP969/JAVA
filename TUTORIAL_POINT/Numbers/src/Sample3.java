@@ -80,5 +80,8 @@ public class Sample3 {
 		System.out.println(Math.sqrt(64));
 		System.out.println(Math.sqrt(100));
 		System.out.println("-----------");
+		System.out.println(Math.toDegrees(45.0));
+		System.out.println(Math.toDegrees(30.0));
+		System.out.println("-----------");
 	}
 }
