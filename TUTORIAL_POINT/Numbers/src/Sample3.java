@@ -86,5 +86,8 @@ public class Sample3 {
 		System.out.println(Math.toRadians(45.0));
 		System.out.println(Math.toRadians(30.0));
 		System.out.println("-----------");
+		System.out.println(Math.random());
+		System.out.println(Math.random());
+		System.out.println("-----------");
 	}
 }
